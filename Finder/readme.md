@@ -21,4 +21,24 @@ informacion.
 7. Donde encontrar fuentes de informacion - Folletos a Bases de datos 
 8. Fuentes: Primarias (Documentos instituciones publicas - tesis - Noticias - Periodicas - investigaciones cientificas - Patentes)
 9. Fuentes: Secundarias - son producto del analisi de las fuentes primarias (Enciclopedias - Antologias - Directorios etc) 
-10.  
+
+### Atencion al Cliente
+
+1. Tener todos los medios de comunicacion al tanto, aclarar dudas, mantener informado, llamar por telefono.
+2. Llamar es mas personal, muestra mas compromiso, no dejar en espera al cliente.
+3. Anotar dudas y preguntas, para mejorar la busqueda.
+4. Mas general el tema = mas informacion inecesaria que desechar.
+5. Especificar la informacion que necesita el cliente.
+
+### MOTORES de busqueda
+
+1. Principal herramienta. Resultado ordenados x grado de relevancia. Filtrar resultados.
+2. Buscar de acuerdo al idioma para obtener informacion mas precisa.
+3. Los motores de busqueda se adaptan de acuerdo en lo que se especifican.
+4. El modo incognito no es influenciado por busqueda previas.
+
+### Palabras claves y terminos relacionados.
+
+1. Las preposiciones son palabras vacioas.
+2. Buscar terminos relacionados al mismo, tambien utilizar sinonimos.
+
