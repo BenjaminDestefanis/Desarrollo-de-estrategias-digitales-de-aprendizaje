@@ -14,3 +14,11 @@ informacion.
 
 1. Autor itelectual - Saber la funete originale, el autor de la informacion, asi tambien dar credito al actor.
 2. Confidencialidad, cada informacion solo para ese cliente.
+3. Evitar buscar informacion privada o clasificada, para evitar asuntos legales.
+4. Derechos de autor - copytight . Registros que protegen derechos del autor. Terminos y condiciones.
+5. Derecho de autor - Derecho moral.
+6. Copyleft - licencias libres y gratuitas.
+7. Donde encontrar fuentes de informacion - Folletos a Bases de datos 
+8. Fuentes: Primarias (Documentos instituciones publicas - tesis - Noticias - Periodicas - investigaciones cientificas - Patentes)
+9. Fuentes: Secundarias - son producto del analisi de las fuentes primarias (Enciclopedias - Antologias - Directorios etc) 
+10.  
