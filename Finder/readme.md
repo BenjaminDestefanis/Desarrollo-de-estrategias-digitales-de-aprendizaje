@@ -42,3 +42,6 @@ informacion.
 1. Las preposiciones son palabras vacioas.
 2. Buscar terminos relacionados al mismo, tambien utilizar sinonimos.
 
+
+
+
