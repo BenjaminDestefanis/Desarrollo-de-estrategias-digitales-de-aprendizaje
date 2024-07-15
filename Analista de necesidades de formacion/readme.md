@@ -39,3 +39,48 @@ Transformacion de datos
 5. rapida adpatacion a diversos entornos
 
 Lograr que las persona empleen el conocimiento para bien en distintas areas de necesidad
+
+### BIG DATA para laeducacion
+
+tratatemiento de grandes volumnes de datos. Presente en todo que hacer.
+
+SOCIEDADE INTENRNAIONALE de mineria de datos.
+
+
+EDM - LAK 2 organicaciones para el manejo de datos utilizando BIG DATA.
+
+1. PREDICCION: Clasificacion - Regresion - Estimacion del conocimiento latente. 
+2. Descubrimiento de estructura: Agrupacion - Analisi factorial - Dominio de deteccion - Analisis de red.
+3. Mineria de relaciones: Reglas de asociacion - correlacion - Patrocenes secuenciales y Causalidades
+4. Descubrimientos con modelos
+
+Para que se utilizan:
+1. Predecir
+2. Inferir
+3. Deteccion de sensaciones de las personas.
+4. Obtencion de estadisticas y agrupacion.
+5. Comprender atributos necesarios, para ver si la persona tendra exito o no.
+
+## HERRAMIENTAS PARA EL APRENDIZAJE ADAPTATIVO
+
+educacion enfocada en en necesidades y metas.
+el objeto es mejorar los resultados de cualquier usuario.
+
+### Estrategias educativas digitales.
+
+1. Enfrentar al usuario con diversar situaciones.
+2. Cumplir con especttivas de los suarios.
+
+1. Establecer Metas a alcancar
+2. Criterios de busqueda de informacion
+3. estrategias en aprendizage grupal
+
+1. Discusiones - Diagologos - Reflexion - Intercambio de ideas - Aclaracion de dudas - Identificacion de Temas a profundizar.
+
+1. Trabajo n parejas o queipos.
+2. Elavoracion de Proyectos.
+3. Comparacions de puntos
+4. Estudios de caso.
+5. Insvestigacion de grupos por separados.
+6. Habilidades Metagontivas.
+7. 
