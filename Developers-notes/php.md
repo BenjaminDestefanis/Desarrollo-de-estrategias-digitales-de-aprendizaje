@@ -30,9 +30,41 @@ Hay muchas ventajas de usar PHP, que incluyen:
 
 También hay algunas desventajas de usar PHP, que incluyen:
 
-1. Puede ser inseguro: Si no se usa correctamente, PHP puede ser vulnerable a ataques de seguridad. Es importante seguir las mejores prácticas de seguridad al desarrollar aplicaciones PHP.
+1. Puede ser inseguro: Si no se usa correctamente, PHP puede ser vulnerable a ataques de seguridad. Es importante seguir las mejores prácticas de **seguridad** al desarrollar aplicaciones PHP.
 2. No es tan moderno como otros lenguajes: PHP es un lenguaje relativamente antiguo y no tiene algunas de las características de los lenguajes de programación más modernos.
 3. Puede ser inconsistente: La forma en que funciona PHP puede variar un poco dependiendo de la configuración del servidor. Esto puede dificultar la escritura de código PHP que funcione en todos los servidores.
 
 En general, PHP es un lenguaje de programación poderoso y versátil que es una buena opción para el desarrollo web. Es fácil de aprender, ampliamente utilizado y de código abierto. Sin embargo, es importante ser consciente de las desventajas de PHP antes de usarlo.
 
+
+### Conceptos Avanzados PHP
+
+1. **Namespaces**
+Los namespaces en PHP permiten organizar el código en diferentes espacios de nombres, evitando colisiones de nombres entre clases, funciones y constantes.
+
+2. **Traits**
+Los traits permiten la reutilización de métodos en múltiples clases, proporcionando una alternativa a la herencia múltiple.
+
+3. **Patrones de Diseño**
+Conocer e implementar patrones de diseño comunes como Singleton, Factory, Observer y MVC (Model-View-Controller) es crucial para escribir código limpio, reutilizable y mantenible.
+
+4. **PHP-FIG (Framework Interoperability Group)**
+Conocer y adherirse a los estándares de PHP-FIG, como PSR-1 (Basic Coding Standard), PSR-2 (Coding Style Guide), PSR-4 (Autoloading Standard), es esencial para mantener la coherencia y la interoperabilidad del código.
+
+5. **Dependency Injection (DI)**
+La inyección de dependencias es un patrón de diseño que permite la inversión de control (IoC), facilitando la gestión de dependencias y mejorando la testabilidad del código.
+
+6. **Composer y Autoloading**
+Composer es el gestor de dependencias para PHP. Conocer cómo usar Composer para manejar las dependencias y el autoloading es fundamental.
+
+7. **Manejo de Errores y Excepciones**
+Implementar un manejo adecuado de errores y excepciones mejora la robustez y la mantenibilidad del código.
+
+8. **Programación Asíncrona**
+Aunque PHP no está diseñado principalmente para la programación asíncrona, hay bibliotecas como ReactPHP que permiten trabajar con IO asincrónico, mejorando la eficiencia en ciertas aplicaciones.
+
+9. **Seguridad**
+Conocer y aplicar buenas prácticas de seguridad, como la prevención de SQL injection, Cross-Site Scripting (XSS), y Cross-Site Request Forgery (CSRF), es esencial para proteger las aplicaciones PHP.
+
+10. **Unit Testing y TDD (Test-Driven Development)**
+Escribir pruebas unitarias y seguir el desarrollo basado en pruebas ayuda a garantizar que el código funcione correctamente y sea mantenible. PHPUnit es una herramienta popular para esto.
